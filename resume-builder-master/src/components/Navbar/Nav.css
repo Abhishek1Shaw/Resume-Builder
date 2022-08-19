@@ -1,0 +1,27 @@
+.NavBtnLink {
+    border-radius: 4px;
+background: #808080;
+padding: 10px 22px;
+color: #000000;
+outline: none;
+border: none;
+cursor: pointer;
+transition: all 0.2s ease-in-out;
+text-decoration: none;
+}
+
+.NavBtnLink:hover{
+    transition: all 0.2s ease-in-out;
+	background: #fff;
+	color: #808080;
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.title{
+    margin-left: 100%;
+    padding: 26px;
+}
